@@ -1,0 +1,2 @@
+# hermes
+Smart home documentation
