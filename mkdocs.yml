@@ -1,10 +1,10 @@
 site_name: Smart Home Notes
 
 nav:
-  - index.md
+  - Home: index.md
   - Architecture: architecture.md
-  - process.md
-  - devices.md
+  - Process: process.md
+  - Devices: devices.md
   - LEDs: leds.md
 
 theme:
