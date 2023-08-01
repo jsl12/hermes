@@ -1,0 +1,37 @@
+site_name: My Docs
+
+nav:
+  - index.md
+  - Architecture: architecture.md
+  - process.md
+  - devices.md
+  - LEDs: leds.md
+
+theme:
+  name: material
+  palette:
+    scheme: slate
+  features:
+    - content.code.copy
+    - content.code.annotate
+
+markdown_extensions:
+  - def_list
+  - attr_list
+  - md_in_html
+  - footnotes
+  - admonition
+  - pymdownx.details
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets:
+      base_path:
+        - ./
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
