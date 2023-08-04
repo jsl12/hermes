@@ -1,5 +1,20 @@
 # Devices
 
+## Computers
+
+### Rpi
+
+- Adafruit - [Raspberry Pi 4 (8 GB)](https://www.adafruit.com/product/4564)
+- Amazon - [Raspberry Pi 4 (4 GB)](https://www.amazon.com/Raspberry-Model-2019-Quad-Bluetooth/dp/B07TC2BK1X)
+- [Power supply (15W)](https://www.amazon.com/dp/B07W8XHMJZ)
+- [Argon ONE Case](https://www.amazon.com/dp/B08MJ3CSW7)
+- [240 GB SSD](https://www.amazon.com/dp/B09TMVV6CQ)
+    - Needs to be M.2 SATA specifically
+
+### Ebay
+
+Search for "mini pc", get anything.
+
 ## Aqara
 
 The latest products from Xiaomi, Western-branded
