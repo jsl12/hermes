@@ -50,3 +50,23 @@ Comes in several varieties
 - CCT
 - RGBCCT
 - RGBW
+
+### [WS2812B RGB SMD](https://www.amazon.com/BTF-LIGHTING-Flexible-Individually-Addressable-Non-waterproof/dp/B01CDTEJBG/)
+
+  - 16.4 ft, 300 LEDs
+  - [IP ratings](https://en.wikipedia.org/wiki/IP_code) are various levels of dust/water proofing
+
+## Thermostats
+
+[Ecobee Smart Thermostat Enhanced](https://www.ecobee.com/en-us/smart-thermostats/smart-thermostat-enhanced/)
+- [Amazon](https://www.amazon.com/ecobee-Smart-Thermostat-Enhanced-works/dp/B09XXTQPXC)
+
+## Relays
+
+These are intended to be buried in the junction box of any regular light switch.
+
+The wiring isn't as straightforward as it seems, but it's workable. Diagram to come.
+
+[Sonoff minir4](https://sonoff.tech/product/diy-smart-switches/minir4/) (with neutral wire)
+
+[Sonoff zbmini-l2](https://sonoff.tech/product/diy-smart-switches/zbmini-l2/) (without neutral wire)
