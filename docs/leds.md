@@ -38,3 +38,7 @@ A CCT signal would just be 3 wires:
 - WW (warm white)
 
 #### Addressable (Digital)
+
+Each LED comes with a small chip that can be individually controlled. Normally 
+
+- [WS2811B](https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
