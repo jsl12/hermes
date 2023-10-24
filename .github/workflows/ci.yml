@@ -21,5 +21,8 @@ jobs:
           path: .cache
           restore-keys: |
             mkdocs-material-
-      - run: pip install mkdocs-material 
+      - run: pip install mkdocs-material
+      - name: List directory contents
+        run: |
+          ls -al
       - run: mkdocs gh-deploy --config-file ./hermes/mkdocs.yml
